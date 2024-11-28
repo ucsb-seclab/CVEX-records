@@ -2,7 +2,7 @@
 
 What are CVEX-records?
 
-CVEX-records is a collection of executable CVEs that can be run using [https://github.com/ucsb-seclab/CVEX](CVEX).
+CVEX-records is a collection of executable CVEs that can be run using https://github.com/ucsb-seclab/CVEX.
 
 ## Contributions
 
